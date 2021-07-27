@@ -33,7 +33,7 @@ import Data from './Data';
 
     // Experiment ids should be descriptive strings. For UG4/MInf/MSc projects,
     // they should include the surname of the experimenter.
-    const experimentId = "ActualCausation2Threshold3";
+    const experimentId = "ActualCausation2Threshold2";
 
     // Send a minimalist message, with just a timestamp.
     // In a real experiment, this would be replaced with everything that
